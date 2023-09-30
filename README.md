@@ -58,25 +58,17 @@ To use this code for brain detection, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/brain-detection-cnn.git
-cd brain-detection-cnn
+git clone https://github.com/ajaybirrandhawa/braindetectioncnn.git
+cd braindetectioncnn
 ```
 
 2. Organize your dataset as described in the "Dataset" section.
 
 3. Update the configuration file (if needed) to adjust hyperparameters, such as batch size, learning rate, and the number of training epochs.
 
-4. Train the CNN model using the provided script:
+4. Train the CNN model by replacing the training file with yours.
 
-```bash
-python train.py --dataset_path /path/to/training_data
-```
-
-5. After training, you can evaluate the model on the test dataset:
-
-```bash
-python evaluate.py --model_path /path/to/saved_model --test_data_path /path/to/testing_data
-```
+5. After training, you can evaluate the model on the test dataset (replace it as you wish).
 
 6. You can deploy the trained model for inference in your application (see "Deployment" section below).
 
