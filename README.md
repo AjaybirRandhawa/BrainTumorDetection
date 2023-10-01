@@ -1,4 +1,4 @@
- # Brain Detection using Convolutional Neural Networks (CNN)
+# Brain Detection using Convolutional Neural Networks (CNN)
 
 ## Introduction
 
