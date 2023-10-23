@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Strap in everyone, I'm about to do this all in a 6h semi-concious state with 0 regards to programming guidelines, self care or my mentality. If you find an issue, please, hesitate to fix. Thanks and enjoy o7.
+Strap in everyone, I'm about to do this all in a 6h semi-concious state with 0 regards to programming guidelines, self care or my mentality. If you find an issue, please, clone the repo to fix it. Thanks and enjoy o7.
 
 Inspired by: A headache
 
